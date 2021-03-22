@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KinoSearch</string>
+    <string name="CNA"><u>Create new account?</u></string>
+    <string name="AHA"><u>Already have account?</u></string>
+</resources>
